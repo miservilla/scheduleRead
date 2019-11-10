@@ -1,0 +1,156 @@
+ 7.00	  Nov/03	  Sun	 9a - 430p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           10.00 , Hot	  Nov/06	  Wed	 830a-730p(60L@130p)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           10.00 , Hot	  Nov/07	  Thu	 830a-730p(60L@130p)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           10.00 , Hot	  Nov/08	  Fri	 830a-730p(60L@130p)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           8.00	  Nov/09	  Sat	 9a - 530p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           7.00	  Nov/10	  Sun	 9a - 430p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           5.00 , Hot	  Nov/11	  Mon	 230p - 730p	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           10.00 , Hot	  Nov/14	  Thu	 830a-730p(60L@130p)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           10.00 , Hot	  Nov/15	  Fri	 830a-730p(60L@130p)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           8.00	  Nov/16	  Sat	 9a - 530p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           7.00	  Nov/17	  Sun	 9a - 430p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           5.00 , Hot	  Nov/18	  Mon	 230p - 730p	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           10.00 , Hot	  Nov/20	  Wed	 830a-730p(60L@130p)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           10.00 , Hot	  Nov/22	  Fri	 830a-730p(60L@130p)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           8.00	  Nov/23	  Sat	 9a - 530p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           7.00	  Nov/24	  Sun	 9a - 430p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           8.00	  Nov/30	  Sat	 9a - 530p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           7.00	  Dec/01	  Sun	 9a - 430p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           5.00 , Hot	  Dec/02	  Mon	 230p - 730p	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           8.00	  Dec/07	  Sat	 9a - 530p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           7.00	  Dec/08	  Sun	 9a - 430p(30L)	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           5.00 , Hot	  Dec/09	  Mon	 230p - 730p	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           8.00	  Dec/14	  Sat	 9a - 530p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           8.00	  Dec/21	  Sat	 9a - 530p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           7.00	  Dec/22	  Sun	 9a - 430p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           5.00 , Hot	  Dec/23	  Mon	 230p - 730p	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           10.00 , Hot	  Dec/26	  Thu	 830a-730p(60L@130p)	  NP/PA	09263 - Santa Fe - W Cordova Rd.
+511 W Cordova Rd
+Santa Fe , NM -
+5059835546
+           10.00 , Hot	  Dec/27	  Fri	 830a-730p(60L@130p)	  NP/PA	09263 - Santa Fe - W Cordova Rd.
+511 W Cordova Rd
+Santa Fe , NM -
+5059835546
+           8.00	  Dec/28	  Sat	 9a - 530p(30L)	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           7.00	  Dec/29	  Sun	 9a - 430p(30L)	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           10.00 , Hot	  Dec/30	  Mon	 830a-730p(60L@130p)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           5.50 , Hot	  Dec/31	  Tue	 830a - 2p	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           8.00	  Jan/04	  Sat	 9a - 530p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           7.00	  Jan/05	  Sun	 9a - 430p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           5.00 , Hot	  Jan/06	  Mon	 230p - 730p	  NP/PA	07242 - Albuquerque
+4201 Montano Rd Nw
+Albuquerque, NM -
+5059224997
+           8.00	  Jan/11	  Sat	 9a - 530p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
+           8.00	  Jan/18	  Sat	 9a - 530p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           7.00	  Jan/19	  Sun	 9a - 430p(30L)	  NP/PA	08915 - Menaul Blvd.
+9640 Menaul Blvd Ne
+Albuquerque, NM -
+5052944167
+           8.00	  Jan/25	  Sat	 9a - 530p(30L)	  NP/PA	07552 - Rio Rancho
+1001 New Mexico Hwy 528, Se
+Rio Rancho, NM -
+5058962078
