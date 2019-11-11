@@ -5,8 +5,8 @@ creates a csv file that is inportable into Google calendar.
 
 import re
 import csv
-from datetime import datetime
-import pandas as pd
+import datetime
+
 
 headings = ['Subject', 'Start Date', 'Start Time', 'End Date', 'End Time', 'Location']
 sched = []
@@ -29,11 +29,14 @@ with open("PocketMonthly.txt", "rt") as contents:
             f = re.findall(('[\w\.-]+/[\d\.-]+'), cleanedLine)  # Captures format Oct/04.
             for item in f:
                 if item:
-                    now = datetime.now()
+                    now = datetime.datetime.now()
                     year = now.strftime('%Y')  # Uses current year, careful when schedule is going into following year.
+                    month = now.month
                     item = year + '/' + item
-                    item = datetime.date(datetime.strptime(item, '%Y/%b/%d'))
-					#Insert if statement if item is less than currecnt date, add 1 year
+                    item = datetime.datetime.strptime(item, '%Y/%b/%d').date()
+                    schMonth = item.month
+                    if schMonth < month:
+                        item = item + datetime.timedelta(days=365)
                     sched.append(subject)
 
             f = re.findall(r"\d{1,3}a\b", cleanedLine)
@@ -46,7 +49,6 @@ with open("PocketMonthly.txt", "rt") as contents:
                     sched.append(startTime)
 
             f = re.findall((r'\d{1,3}p\b'), cleanedLine)
-            # f = re.findall((r"\d{1,3}p\b"), cleanedLine)
             for endTime in f:
                 if endTime:
                     sched.append(item)
