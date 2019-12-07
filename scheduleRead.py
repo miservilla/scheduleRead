@@ -1,12 +1,11 @@
 """
 This script takes a text file from Schedule 360 data copied from the Pocket Monthly schedule saved as "PocketMonthly.txt" and
-creates a csv file that is inportable into Google calendar.
+creates a csv file that is importable into Google calendar.
 """
 
 import re
 import csv
 import datetime
-
 
 headings = ['Subject', 'Start Date', 'Start Time', 'End Date', 'End Time', 'Location']
 sched = []
