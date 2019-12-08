@@ -1,6 +1,6 @@
 """
-This script takes a text file from Schedule 360 data copied from the Pocket Monthly schedule saved as "PocketMonthly.txt" and
-creates a csv file that is importable into Google calendar.
+This script takes a text file from Schedule 360 data copied from the Pocket Monthly schedule saved as
+"PocketMonthly.txt"and creates a csv file that is importable into Google calendar. Reports error during lear year.
 """
 
 import re
